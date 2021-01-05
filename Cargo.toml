@@ -1,5 +1,5 @@
 [package]
-name = "discord-games-bot"
+name = "discord-planner-bot"
 version = "0.1.0"
 authors = ["AndrewJMD <andrewjmd22@gmail.com>"]
 edition = "2018"
